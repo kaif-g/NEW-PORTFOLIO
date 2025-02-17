@@ -9,73 +9,28 @@ const About = () => {
         window.open(Resume, '_blank');
     }
 
-
     return (
         <section className="about container section" id="about">
             <h2 className="section__title">About Me </h2>
 
-            <div className="about__container grid">
+            <div className="about__container grid center">
                 <img src={Image} alt="" className='about__img' />
 
-                <div className="about__data grid">
-                    <div className="about__info">
-                        <p className="about__description">
-                            Hello! I'm Greg, and I'm based in Johannesburg, South Africa. I studied at Varisty College Sandton, where I completed my diploma in Software Development.<br /><br />
-                            Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days
-                            is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
-                            Here are a few technologies I’ve been working with recently:
+                <div className="about__data grid center">
+                    <div className="about__info center">
+                        <p className="about__description center">
+                        Hello! I'm D. Mahammed Kaif, and I'm based in Tirupati, India. I am currently pursuing my B.Tech in Electronics and Communication Engineering at Annamacharya Institute of Technology & Sciences-Tirupati, with an expected graduation in 2025.
+                        Fast forward to today, and I can honestly say it's been a rewarding journey. I am passionate about Full Stack Development, Cloud Computing, Data Analytics, and IoT, and I am eager to keep growing in these fields. My current focus is on expanding my portfolio with new projects while being a dedicated team player in every opportunity I take on.<br /><br />
+                        Here are a few technologies I’ve been working with recently:
                         </p>
-                        <ul className="about__list">
-                            <li>JavaScript (ES6+)</li>
-                            <li>TypeScript</li>
+                        <ul className="about__list center">
+                            <li>JavaScript </li>
                             <li>React</li>
                             <li>Node.js</li>
-                            <li>Postgres SQL</li>
-                            <li>NestJS</li>
+                            <li>SQL</li>
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
+                        <button className="btn center" onClick={downloadResume}>Download CV</button>
                     </div>
-
-                    {/* <div className="about__skills grid">
-                        <div className="skills__data">
-                            <div className="skills__titles">
-                                <h3 className="skills__name">Development</h3>
-                                <span className="skills__number">90%</span>
-                            </div>
-
-                            <div className="skills__bar">
-                                <span className="skills__percentage development">
-
-                                </span>
-                            </div>
-                        </div>
-
-                        <div className="skills__data">
-                            <div className="skills__titles">
-                                <h3 className="skills__name">UI/UX Design</h3>
-                                <span className="skills__number">80%</span>
-                            </div>
-
-                            <div className="skills__bar">
-                                <span className="skills__percentage ui__design">
-
-                                </span>
-                            </div>
-                        </div>
-
-                        <div className="skills__data">
-                            <div className="skills__titles">
-                                <h3 className="skills__name">Photography</h3>
-                                <span className="skills__number">60%</span>
-                            </div>
-
-                            <div className="skills__bar">
-                                <span className="skills__percentage photography">
-
-                                </span>
-                            </div>
-                        </div>
-                    </div> */}
                 </div>
             </div>
 
@@ -84,4 +39,4 @@ const About = () => {
     )
 }
 
-export default About
+export default About;

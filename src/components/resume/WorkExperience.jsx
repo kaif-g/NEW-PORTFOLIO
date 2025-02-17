@@ -1,66 +1,48 @@
 const WorkExperience = [
     {
         id: 1,
-        title: "Software Engineer",
-        company: "Kurtosys",
-        yearsActive: "January 2022 - Present",
+        title: "Front-End Developer",
+        company: "SlashMark (Virtual Internship)",
+        yearsActive: "May 2024 - July 2024",
         information: [
-            "Write modern, performant, maintainable code for a diverse array of internal projects",
-            "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
+            "Developed responsive and visually appealing web applications using React.js, CSS, and Bootstrap.",
+            "Collaborated with cross-functional teams to improve UI/UX design and performance.",
+            "Optimized front-end code for better efficiency and scalability."
         ],
     },
     {
         id: 2,
-        title: "Junior Software Developer",
-        company: "Entrostat",
-        yearsActive: "May 2017 - December 2021",
+        title: "Salesforce Developer",
+        company: "Salesforce (Virtual Internship)",
+        yearsActive: "November 2023 - December 2023",
         information: [
-            "Improved and optimized the company's website for a seamless customer experience",
-            "Created, communicated, and managed project plans & project timelines",
-            "Worked to continually meet the expectation of our clients",
+            "Worked on Salesforce development, customizing and configuring solutions to meet business needs.",
+            "Gained hands-on experience in Salesforce Lightning and Apex programming.",
+            "Implemented automation workflows and data management solutions."
         ],
     },
     {
         id: 3,
-        title: "Junior Software Developer",
-        company: "Empire State",
-        yearsActive: "Feburary 2016 - April 2017",
+        title: "Full Stack Development Intern",
+        company: "AICTE (Virtual Internship)",
+        yearsActive: "May 2024 - July 2024",
         information: [
-            "Planned, developed, tested, deployed, and maintained web applications and mobile applications",
-            "Worked well independently and on a team to solve problems."
+            "Built full-stack web applications using React.js for the frontend and Node.js for the backend.",
+            "Integrated databases with MySQL for efficient data management.",
+            "Implemented authentication and authorization mechanisms for secure access."
         ],
     },
     {
         id: 4,
-        title: "Software Development Intern",
-        company: "The Digital Academy",
-        yearsActive: "Novembe 2015 - January 2016",
+        title: "Software Engineering Intern",
+        company: "JPMorgan Chase & Co. (Virtual Experience)",
+        yearsActive: "June 2024",
         information: [
-            "Served as a dedicated and supportive Intern in a fast-paced environment",
-            "Worked to solve complex problems using the latest in Mobile and Web Technologies.",
+            "Completed a virtual experience program focused on real-world software engineering challenges.",
+            "Worked on financial technologies, data visualization, and API integrations.",
+            "Gained insights into industry best practices for software development."
         ],
-    },
-    {
-        id: 5,
-        title: "IT Support Assistant",
-        company: "Varsity College",
-        yearsActive: "February 2015 - May 2015",
-        information: [
-            "Worked to support the senior support staff with day-to-day tasks.",
-            "Assisted with the evaluation and troubleshooting of hardware and software issues.",
-            "Maintaining computer Inventory & surplus equipment."
-        ],
-    },
-    {
-        id: 6,
-        title: "Student Ambassador",
-        company: "Varsity College",
-        yearsActive: "December 2014 - February 2015",
-        information: [
-            "Monitored registration for all prospective student",
-            "Assisted parents and prospective student with necessary registration details",
-        ],
-    },
+    }
 ];
 
 export default WorkExperience;
