@@ -4,5 +4,4 @@
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
-
+![Image](https://github.com/user-attachments/assets/86b507bb-aeec-4dbd-b2a8-5bca89673cdc)
