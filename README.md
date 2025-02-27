@@ -1,8 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
-  <br>
+  
   Dudekula Mahammed Kaif Personal Website
   <br>
 </h1>
@@ -11,7 +8,7 @@
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/86b507bb-aeec-4dbd-b2a8-5bca89673cdc)
 
 ## How To Use
 
