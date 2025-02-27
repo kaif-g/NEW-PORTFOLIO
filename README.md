@@ -1,6 +1,6 @@
 
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">DUDEKULA MAHAMMED KAIF</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://kaif-g.github.io/NEW-PORTFOLIO/" target="_blank">DUDEKULA MAHAMMED KAIF</a>.</h4>
 
 <br>
 
